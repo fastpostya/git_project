@@ -1,1 +1,1 @@
-print("Hello, Lunux")
+print("Hello, Word")
